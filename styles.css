@@ -1,5 +1,6 @@
 body {
     background-image: url("https://cdn.pixabay.com/photo/2014/05/03/00/35/wood-336589_1280.jpg");
+    background-size: cover;
     color: white;
     display: flex;
     align-items: center;
